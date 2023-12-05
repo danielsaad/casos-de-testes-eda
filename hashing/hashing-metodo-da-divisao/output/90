@@ -1,0 +1,8 @@
+T[0]->NULL
+T[1]->NULL
+T[2]->2->NULL
+T[3]->3->11->NULL
+T[4]->4->20->NULL
+T[5]->13->NULL
+T[6]->NULL
+T[7]->15->NULL
